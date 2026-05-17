@@ -51,7 +51,7 @@ export function HeroSection() {
           transition={{ duration: 1, delay: 0.12, ease: easing }}
           className="max-w-5xl text-6xl font-semibold leading-[0.95] text-white sm:text-8xl lg:text-9xl"
         >
-          z / AI / Writing
+          Mr.Cold Beast
         </motion.h1>
 
         <motion.p
@@ -60,7 +60,7 @@ export function HeroSection() {
           transition={{ duration: 0.95, delay: 0.24, ease: easing }}
           className="mt-7 max-w-2xl text-base leading-8 text-zinc-400 sm:text-xl"
         >
-          在暗色界面里记录 AI、创造力和工程审美。冷静、锋利、持续进化，像一块为未来写作准备的控制面板。
+          我的缺点曾向我进言 有缺陷就有高山镶嵌
         </motion.p>
 
         <motion.div
