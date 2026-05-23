@@ -21,14 +21,6 @@ const cards = [
     gradient: "from-red-500/16 via-zinc-500/8 to-white/4",
   },
   {
-    title: "编剧作品",
-    eyebrow: "Screenplays",
-    description: "故事结构、角色弧光和影像化表达的作品集。",
-    href: "/#screenplays",
-    className: "",
-    gradient: "from-white/10 via-red-500/12 to-white/4",
-  },
-  {
     title: "关于我",
     eyebrow: "Profile",
     description: "一个写代码、写故事，也持续打磨审美系统的人。",
