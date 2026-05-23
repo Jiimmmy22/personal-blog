@@ -23,7 +23,7 @@ const cards = [
   {
     title: "关于我",
     eyebrow: "Profile",
-    description: "一个写代码、写故事，也持续打磨审美系统的人。",
+    description: "？？？？？？？",
     href: "/#about",
     className: "md:col-span-2",
     gradient: "from-zinc-400/10 via-red-500/14 to-white/4",
